@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://benoehler.github.io
+title: Bensky
+tagline: A log of everyday life
+description: one word at a time
+paginate: 5
